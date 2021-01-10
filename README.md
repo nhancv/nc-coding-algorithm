@@ -1,2 +1,1 @@
-# nc-aws-solutions
-AWS solutions
+# nc-coding-algorithm
